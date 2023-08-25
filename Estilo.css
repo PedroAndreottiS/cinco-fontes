@@ -1,0 +1,55 @@
+body {
+
+    text-align: center;
+
+   
+
+}
+
+ 
+
+.primeiraClasse {
+
+    background-color: lightskyblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+ 
+
+ 
+
+.classeDois {
+
+    background-color:salmon;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+ 
+
+.classeTres {
+
+    background-color: lightcoral;
+    font-family:'Press Start 2P', display;
+
+}
+
+ 
+
+.classeQuatro {
+
+    background-color: lightgoldenrodyellow;
+    font-family:'Sedgwick Ave Display', cursive;
+
+}
+
+ 
+
+.classeCinco
+
+ {
+
+    background-color: lightseagreen;
+    font-family: 'Nova Mono', monospace;
+};
